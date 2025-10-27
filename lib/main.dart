@@ -11,7 +11,7 @@ void main(){
     MaterialApp(
       debugShowCheckedModeBanner: false,
       home: SplashScreen(),
-
+      // home: HomeScreen(),
     )
   );
 }
